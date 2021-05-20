@@ -1,0 +1,12 @@
+[
+
+{
+  "msg-id": "int",
+  "company_name": "string",
+  "registration_date": "date",
+  "score": "int",
+  "directors_count": "int",
+  "last_updated": "date"
+}
+
+]
